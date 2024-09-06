@@ -1,1 +1,36 @@
 muhammed green
+
+Ian Kimble.
+
+About Me Activity: Part 1
+
+Please copy and paste the questions below and answer them in 
+the aboutme.txt file we created a few days ago. When your finish, submit
+your activity by using the source control button. Remember: before you 
+can successfully submit your work you need to provide a comment/ description
+in the text box in soucre control to submit your work. 
+
+1. In a 3-4 sentences, please tell me about yourself. What are your hobbies outside of school.  
+My name is muhammed green> i am 5'3 i got to boys LATIN high SCHOOL AND I am on the football team. I am in algerbra 2 in the 9th grade 
+Which is good because i am able to not take a math class in 12th grade when i pass my math classes.
+2. Do you have someone in your network of family and friends that works in tech? If yes, please
+describe what they do and how you are connected to them.
+My uncle works in tech and he makes codings for games and stuff like he helped make very succesfull roblox games like tower of hell and king legacy.
+3. Do you plan on attending college? If yes, what are you interested in studying 
+I do plan on going to college to study computer science and one day make my own game.
+(if you know you want to got to college, but unsure of what you want to study, thats alright.)
+
+4. In your own words, what do you think will be the hardest thing about learning coding?
+learning the launguage.
+
+5. Bonus:
+Do you watch the NFL? If yes, who is your favorite team, and what will your teams record
+be at the end of the season? 
+My favorite team is the 49rs and i think we will be like 15-2
+About Me Activity: Part 2
+
+Once you have completed the first part of this activity, please use the following
+link below to complete the course kickoff survey. 
+
+Survey link:
+https://forms.gle/HCLfdGwUqoz1smjW9
