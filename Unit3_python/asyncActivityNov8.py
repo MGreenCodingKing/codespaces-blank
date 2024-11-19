@@ -45,6 +45,9 @@ var y= 2
 var z= 12/4
 
 x <= 12 _____ z < 10
+
 String concatenation refers to the process of combining two or more strings into a single string. 
 It can be done by either appending one string to another or creating a new string 
 that contains the original strings in sequence.
+
+
