@@ -32,9 +32,32 @@ def modifyMyName(name):
 def verifyAge(age):
     if age > 17 and age < 20:
         print('congrats! you can buy GTA VI')
-    elif age > 20
+    elif age > 20:
         print('sorry youre to old for this game.')
     else:
-        print('sorry you need an adult to buy this game')
+        verifyAge(69)
 
-verifyAge(69)
+def MinutesConverter(hours):
+    print(hours* 60)    
+     
+MinutesConverter(3)
+
+# Conditional statements
+#if /else keywords; gives us the abilty to
+# control outcomes and make decisions on data
+
+# food expiration software is an example of 
+# using conditional statements. if the food expires
+# it needs to be thrown away, otherwise or else
+# it can be eaten.
+
+def foodExperation(month, date, year):
+    experationMonth = 12
+    experationDate = 5
+    experationYear = 2026
+    if date > experationDate and experationMonth and year > experationDate:
+        print('thrown food away.')
+    else:
+        print('food is still good.')
+
+        foodExperation(12, 8, 2024)
