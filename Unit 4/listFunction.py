@@ -44,19 +44,19 @@ print(skii_trip_items)
 # del function
 # del skii_trip_items
 
-def clothingBySeason():
-    summerClothes= []
-    winterClothes= []
+# def clothingBySeason():
+   # summerClothes= []
+   # winterClothes= []
     
-    clothingSelection= input('what are you wearing?')
-    if clothingSelection == 'tee-shirt':
-    summerClothes.append('tee-shirt')
-    print('here is your summer collection')
-    print(summerClothes)
+   # clothingSelection= input('what are you wearing?')
+   # if clothingSelection == 'tee-shirt':
+    # summerClothes.append('tee-shirt')
+   # print('here is your summer collection')
+    # print(summerClothes)
 
 # clothingBySeason()
 
-def favoriteRestarunt():
-    restaunts = ['wendys' ,'chick-fillet','kfc']
-    response = input('what is your favorite restarunt?')
-    print(' your faviorite restarunt is' + response)
+# def favoriteRestarunt():
+    # restaunts = ['wendys' ,'chick-fillet','kfc']
+    # response = input('what is your favorite restarunt?')
+    # print(' your faviorite restarunt is' + response)
